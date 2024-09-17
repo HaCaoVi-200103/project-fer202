@@ -1,0 +1,27 @@
+.NavLink{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+#slider1 a.active{
+    color: #3498db;
+    border-bottom:3px solid #3498db ;
+}
+
+#slider2 a.active{
+    color: #3498db;
+    border-bottom:3px solid #3498db ;
+}
+
+#slider3 a.active{
+    color: #3498db;
+    border-bottom:3px solid #3498db ;
+}
+
+#slider4 a.active{
+    color: #3498db;
+    border-bottom:3px solid #3498db ;
+}
+
+
